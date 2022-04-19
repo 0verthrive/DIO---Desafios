@@ -13,7 +13,7 @@
 </ul>
 
 ```diff
-                                                                                                                     CONCLUÍDO 🟢
+                                                                                                               CONCLUÍDO 🟢
 ```
 
 <h4>Módulo 2</h4>
@@ -26,7 +26,7 @@
 
 
 ```diff
-                                                                                                                   EM ANDAMENTO 🟣
+                                                                                                            EM ANDAMENTO 🟣
 ```
 
 <h4>Módulo 3</h4>
@@ -43,7 +43,7 @@
 
 
 ```diff
-                                                                                                                       PENDENTE 🟠
+                                                                                                               PENDENTE 🟠
 ```
 
 <h4>Módulo 4</h4>
@@ -59,7 +59,7 @@
 
 
 ```diff
-                                                                                                                       PENDENTE 🟠
+                                                                                                               PENDENTE 🟠
 ```
 
 <h4>Módulo 5</h4>
@@ -83,5 +83,5 @@
 
 
 ```diff
-                                                                                                                       PENDENTE 🟠
+                                                                                                              PENDENTE 🟠
 ```
